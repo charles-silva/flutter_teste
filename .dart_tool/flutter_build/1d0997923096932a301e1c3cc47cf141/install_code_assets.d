@@ -1,0 +1,1 @@
+ /Volumes/Charles-SD/Testes/flutter_dev_test/.dart_tool/flutter_build/1d0997923096932a301e1c3cc47cf141/native_assets.json: 
