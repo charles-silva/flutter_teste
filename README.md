@@ -44,7 +44,7 @@ flutter run
 ## 📱 Print das telas
 
 <p align="center">
-  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/login.png" width="30%" style="margin: 5px;"
+  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/login.png" width="30%" style="margin: 5px;"/>
   <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/verfication.png" width="30%" style="margin: 5px;" />
   <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/home.png" width="30%" style="margin: 5px;" />
 </p>
