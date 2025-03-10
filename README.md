@@ -9,7 +9,7 @@ Projeto criado como teste para a vaga de **Flutter Developer**.
 ✅ **Salvamento de dados locais** com `SharedPreferences`  
 ✅ **Criação de constantes** para padrões de cores, tamanhos de fonte e espaçamentos  
 ✅ **Tratamento básico de erros** e retorno ao usuário  
-✅ **Pronto para testes** o projeto está pronto para iniciar testes.  
+✅ **Pronto para testes**  
 
 ## 🚀 Como Rodar o Projeto
 
