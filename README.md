@@ -9,6 +9,7 @@ Projeto criado como teste para a vaga de **Flutter Developer**.
 ✅ **Salvamento de dados locais** com `SharedPreferences`  
 ✅ **Criação de constantes** para padrões de cores, tamanhos de fonte e espaçamentos  
 ✅ **Tratamento básico de erros** e retorno ao usuário  
+✅ **Pronto para testes** o projeto está pronto para iniciar testes.  
 
 ## 🚀 Como Rodar o Projeto
 
@@ -43,9 +44,9 @@ flutter run
 ## 📱 Print das telas
 
 <p align="center">
-  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/home.png" width="29%" style="margin: 5px;"
-  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/login.png" width="29%" style="margin: 5px;" />
-  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/login.png" width="30%" style="margin: 5px;" />
+  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/login.png" width="29%" style="margin: 5px;"
+  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/verification.png" width="29%" style="margin: 5px;" />
+  <img src="https://github.com/charles-silva/flutter_teste/blob/main/assets/readme/home.png" width="30%" style="margin: 5px;" />
 </p>
 
 
